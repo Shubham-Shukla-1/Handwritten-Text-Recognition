@@ -17,7 +17,7 @@ pip install librosa
 ```
 2. Clone the original files in git bash
 ```
-git clone [https://github.com/FywOo02/ScriptScan-Handwritten-Paragraph-Recognition.git](https://github.com/Shubham-Shukla-1/Handwritten-Text-Recognition.git)
+git clone https://github.com/Shubham-Shukla-1/Handwritten-Text-Recognition.git
 ```
 3. Run the home.py, and access the local server address to try it!
 ```

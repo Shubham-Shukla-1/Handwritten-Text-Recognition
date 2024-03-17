@@ -1,3 +1,5 @@
+<p>Handwritten recognition, also known as handwriting recognition or handwriting OCR (Optical Character Recognition), is the process of converting handwritten text into digital text. It involves using algorithms and machine learning techniques to analyze and interpret handwritten characters or symbols and translate them into machine-readable text. Handwritten recognition systems are employed in various applications, including digitizing handwritten documents, assisting in automatic form processing, enabling handwritten input in digital devices, and aiding in postal address recognition, among others. These systems typically involve preprocessing steps like image segmentation and feature extraction, followed by classification using pattern recognition or neural network-based approaches.</p>
+
 # Handwritten-Text-Recognition
 <br>
 ## How can I use?
